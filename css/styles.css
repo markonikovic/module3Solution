@@ -1,0 +1,22 @@
+#main-content {
+	min-height: 1000px;
+	width:98%;
+}
+
+nav {
+	min-height: 10vh;
+	border: solid black 5px;
+}
+
+#brand-name {
+	font-size: 2rem;
+}
+
+.dropdown-divider {
+	border-top: 3px solid black;
+}
+
+button span:active {
+	border-color:white;
+}
+
